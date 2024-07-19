@@ -13,12 +13,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:sarvajeeth21417@iiitd.ac.in" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon.svg" alt="gmail" width="40" height="40"/>
   </a>
   <a href="https://sarvajeet2003.github.io/Portfolio/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="portfolio" width="40" height="40"/>
   </a>
+  <a href="https://www.linkedin.com/in/sarvajeeth-u-k-9aa85a220/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
