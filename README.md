@@ -9,6 +9,9 @@
 
 - 🌐 Check out my [Portfolio](https://sarvajeet2003.github.io/Portfolio/)
 
+- 📫 How to reach me: sarvajeeth21417@iiitd.ac.in
+
+- 💬 Ask me about Machine Learning, Web Development, and Android Development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,8 +25,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
 </p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -78,3 +79,45 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
+<h3 align="left">Education:</h3>
+<p align="left">
+  <b>Indraprastha Institute of Information Technology, Delhi</b> - B.Tech (CSSS) Dec 2021 – Present
+</p>
+<p align="left">
+  <b>BGS Pu College, Mysuru (Karnataka)</b> - Percentage: 96.6 (2019 – 2021)
+</p>
+<p align="left">
+  <b>St Joseph’s Central School, Mysuru (Karnataka)</b> - Percentage: 95.6 (2009 – 2019)
+</p>
+<h3 align="left">Experience:</h3>
+<p align="left">
+  <b>Developer Intern, Caliper Business Solutions</b> (May, 2023 – July, 2023)
+  <ul>
+    <li>Worked on backend development, implementing APIs, and web scraping.</li>
+    <li>Developed a geo-fencing system and a weather alert system for truck drivers.</li>
+  </ul>
+</p>
+<p align="left">
+  <b>Intern, ExcelSoft Technologies Pvt Ltd</b> (May, 2024 – July, 2024)
+  <ul>
+    <li>Predicted user engagement using machine learning techniques.</li>
+    <li>Implemented text preprocessing and predictive modeling algorithms.</li>
+  </ul>
+</p>
+<p align="left">
+  <b>Research Intern, Complex Systems Laboratory</b> (Aug, 2023 – Apr, 2024)
+  <ul>
+    <li>Developed ML models for classifying protein sequences.</li>
+    <li>Worked on web development and machine learning in computational gastronomy.</li>
+  </ul>
+</p>
+<p align="left">
+  <b>Investment Banking Fellow, Marquee Equity</b> (Jun, 2023 – Jan, 2024)
+  <ul>
+    <li>Prepared monthly research reports on investment sector growth.</li>
+  </ul>
+</p>
+<h3 align="left">Projects:</h3>
+<ul>
+  <li><b>Geo-Fence:</b> Implemented a geo-fencing system using Django for Caliper Business Solutions.</li>
+  <li><b>SMS - Weather Alert:</b> Developed an SMS alert system for truck safety during adverse weather conditions.</li>
