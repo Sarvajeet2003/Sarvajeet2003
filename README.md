@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarvajeeth U K</h1>
 <h3 align="center">A passionate Engineering student from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Word-exee?tab=repositories](https://github.com/Sarvajeet2003?tab=repositories)
+- 👨‍💻 All of my projects are available at [(https://github.com/Sarvajeet2003?tab=repositories)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
