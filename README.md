@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech (CSSS) student at [IIIT Delhi](https://iiitd.ac.in)
 - 🌟 Passionate about Machine Learning, Backend Development, and Scalable Systems
-- 🌱 Currently learning **iOS Development** and **Advanced NLP**
+- 🌱 Currently learning **Data Science** and **AI**
 - 💼 3+ years of experience in software development and research
 
 ## 🛠️ Skills & Tools
@@ -46,11 +46,6 @@
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
       <br>Docker
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
-      <br>Kubernetes
-    </td>
   </tr>
 </table>
 
