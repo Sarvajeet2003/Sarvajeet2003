@@ -1,10 +1,10 @@
 # Hi 👋, I'm Sarvajeeth U K
 
 ## 🚀 About Me
-- 🎓 B.Tech (CSSS) student at [IIIT Delhi](https://iiitd.ac.in)
-- 🌟 Passionate about Machine Learning, Backend Development, and Scalable Systems
-- 🌱 Currently learning **Data Science** and **AI**
-- 💼 3+ years of experience in software development and research
+- 🎓 B.Tech (CSSS) student at [IIIT Delhi](https://iiitd.ac.in)  
+- 🌟 Passionate about Machine Learning, Backend Development, and Scalable Systems  
+- 🌱 Currently learning **Data Science** and **AI**  
+- 💼 3+ years of experience in software development and research  
 
 ## 🛠️ Skills & Tools
 <table>
@@ -46,6 +46,11 @@
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
       <br>Docker
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
+      <br>Kubernetes
+    </td>
   </tr>
 </table>
 
@@ -53,7 +58,7 @@
 - **B.Tech (CSSS)** - Indraprastha Institute of Information Technology, Delhi (2021 - Present)  
   🏆 Dean’s Award for Academic Excellence  
 - **Higher Secondary (96.6%)** - BGS PU College, Mysuru (2019 - 2021)  
-- **Secondary School (95.6%)** - St. Joseph’s Central School, Mysuru (2009 - 2019)
+- **Secondary School (95.6%)** - St. Joseph’s Central School, Mysuru (2009 - 2019)  
 
 ## 🏢 Work Experience
 ### Research Intern | Complex Systems Lab, IIIT Delhi  
@@ -96,11 +101,34 @@
       <br>Emotion-based music player
     </td>
   </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/Sarvajeet2003/MedEase">
+        <img src="https://github.com/Sarvajeet2003/MedEase/raw/main/screenshots/1.png" alt="MedEase" width="200" height="120"/>
+        <br>MedEase
+      </a>
+      <br>Hospital readmission model with FHIR API
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/Sarvajeet2003/Weather-Forecast-App">
+        <img src="https://github.com/Sarvajeet2003/Weather-Forecast-App/raw/main/screenshots/1.png" alt="WeatherApp" width="200" height="120"/>
+        <br>WeatherApp
+      </a>
+      <br>Android app for real-time weather updates
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/Sarvajeet2003/Taming-Stable-Diffusion-for-Lip-Sync">
+        <img src="https://github.com/Sarvajeet2003/Taming-Stable-Diffusion-for-Lip-Sync/raw/main/screenshots/1.png" alt="LipSync" width="200" height="120"/>
+        <br>LipSync
+      </a>
+      <br>Deep learning for lip-syncing
+    </td>
+  </tr>
 </table>
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarvajeet2003&theme=dark&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sarvajeet2003&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sarvajeet2003&theme=dark)  
 
 ## 📢 Let's Connect
 - 📧 sarvajeeth21417@iiitd.ac.in  
