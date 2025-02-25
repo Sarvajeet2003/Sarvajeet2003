@@ -1,126 +1,142 @@
-<!-- Retro ASCII Banner with Lottie Animation -->
-<div align="center">
-  <a href="https://sarvajeeth.dev">
-    <img src="https://lottie.host/embed/8e1e3b3d-0d3d-4a7a-9d4a-5f5b3e9b9c0f/XN4XlU7XAD.json" width="200" height="200">
-  </a>
-</div>
+# Hi 👋, I'm Sarvajeeth U K
 
-<!-- 3D Header using Three.js -->
-## 🚀 Digital Playground
-<div align="center">
-  <iframe src="https://sarvajeeth-dev-3d-portfolio.glitch.me" width="100%" height="400" frameborder="0" allow="autoplay; encrypted-media" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,255,127,0.3);"></iframe>
-</div>
+## 🚀 About Me
+- 🎓 B.Tech (CSSS) student at [IIIT Delhi](https://iiitd.ac.in)  
+- 🌟 Passionate about Machine Learning, Backend Development, and Scalable Systems  
+- 🌱 Currently learning **Data Science** and **AI**  
+- 💼 3+ years of experience in software development and research  
 
-<!-- GitHub Stats & Contribution Graph -->
-## 📈 Coding Odyssey
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarvajeeth21417&show_icons=true&theme=merko&count_private=true&include_all_commits=true&line_height=40" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarvajeeth21417&theme=merko&date_format=M%20j%5B%2C%20Y%5D&background=00000000" alt="Streak Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvajeeth21417&theme=merko" width="100%"/>
-</div>
+## 🛠️ Skills & Tools
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+      <br>Python
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+      <br>Java
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+      <br>Kotlin
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+      <br>PyTorch
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+      <br>Flask
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+      <br>Django
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+      <br>Android
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+      <br>Docker
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
+      <br>Kubernetes
+    </td>
+  </tr>
+</table>
 
-<!-- Interactive Skills Matrix -->
-## 🔮 Tech Alchemy
-<div align="center" class="skills-matrix">
-  <a href="https://github.com/Sarvajeeth21417?tab=repositories&q=python">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python • 4 yrs" class="skill-icon"/>
-  </a>
-  <a href="https://github.com/Sarvajeeth21417/WeatherApp">
-    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin • Android Dev" class="skill-icon"/>
-  </a>
-  <!-- Add 10+ more skill icons -->
-</div>
+## 📚 Education
+- **B.Tech (CSSS)** - Indraprastha Institute of Information Technology, Delhi (2021 - Present)  
+  🏆 Dean’s Award for Academic Excellence  
+- **Higher Secondary (96.6%)** - BGS PU College, Mysuru (2019 - 2021)  
+- **Secondary School (95.6%)** - St. Joseph’s Central School, Mysuru (2009 - 2019)  
 
-<style>
-.skills-matrix {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
-  gap: 1rem;
-  padding: 2rem;
-}
-.skill-icon {
-  transition: transform 0.3s ease, filter 0.3s ease;
-  filter: grayscale(40%);
-}
-.skill-icon:hover {
-  transform: scale(1.2) rotate(5deg);
-  filter: grayscale(0%) drop-shadow(0 0 8px #00ff7f);
-}
-</style>
+## 🏢 Work Experience
+### Research Intern | Complex Systems Lab, IIIT Delhi  
+**Aug 2023 - Present**  
+- Developed ML models for allergen detection in protein sequences  
+- Built recipe recommendation system using collaborative filtering  
 
-<!-- Project Carousel -->
-## 🛠️ Innovation Hub
-<div align="center" class="glide">
-  <div class="glide__track" data-glide-el="track">
-    <div class="glide__slides">
-      <a href="https://github.com/Sarvajeeth21417/ProdSafe" class="glide__slide">
-        <img src="https://raw.githubusercontent.com/Sarvajeeth21417/ProdSafe/main/.github/workflows/demo.gif" width="400" alt="ProdSafe Demo"/>
+### Data Science Intern | Excelsoft Technologies Pvt Ltd  
+**May 2024 - Jul 2024**  
+- Built predictive models for user engagement analysis  
+- Implemented TF-IDF and cosine similarity for content personalization  
+
+### Developer Intern | Caliper Business Solutions  
+**May 2023 - Jul 2023**  
+- Automated SMS alerts for adverse weather using Twilio API  
+- Designed geo-fencing system with Django  
+
+## 🌟 Featured Projects
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/Sarvajeet2003/ProdSafe">
+        <img src="https://github.com/Sarvajeet2003/ProdSafe/raw/main/screenshots/1.png" alt="ProdSafe" width="200" height="120"/>
+        <br>ProdSafe
       </a>
-      <a href="https://github.com/Sarvajeeth21417/Moodipy" class="glide__slide">
-        <img src="https://raw.githubusercontent.com/Sarvajeeth21417/Moodipy/main/docs/assets/emotion-demo.gif" width="400" alt="Moodipy Demo"/>
+      <br>Flask-based product safety checker
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/Sarvajeet2003/Course-ChatBot">
+        <img src="https://github.com/Sarvajeet2003/Course-ChatBot/raw/main/screenshots/1.png" alt="Course ChatBot" width="200" height="120"/>
+        <br>Course ChatBot
       </a>
-    </div>
-  </div>
-</div>
+      <br>NLP chatbot for university regulations
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/Sarvajeet2003/Moodipy">
+        <img src="https://github.com/Sarvajeet2003/Moodipy/raw/main/screenshots/1.png" alt="Moodipy" width="200" height="120"/>
+        <br>Moodipy
+      </a>
+      <br>Emotion-based music player
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/Sarvajeet2003/MedEase">
+        <img src="https://github.com/Sarvajeet2003/MedEase/raw/main/screenshots/1.png" alt="MedEase" width="200" height="120"/>
+        <br>MedEase
+      </a>
+      <br>Hospital readmission model with FHIR API
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/Sarvajeet2003/Weather-Forecast-App">
+        <img src="https://github.com/Sarvajeet2003/Weather-Forecast-App/raw/main/screenshots/1.png" alt="WeatherApp" width="200" height="120"/>
+        <br>WeatherApp
+      </a>
+      <br>Android app for real-time weather updates
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/Sarvajeet2003/Taming-Stable-Diffusion-for-Lip-Sync">
+        <img src="https://github.com/Sarvajeet2003/Taming-Stable-Diffusion-for-Lip-Sync/raw/main/screenshots/1.png" alt="LipSync" width="200" height="120"/>
+        <br>LipSync
+      </a>
+      <br>Deep learning for lip-syncing
+    </td>
+  </tr>
+</table>
 
-<!-- Real-Time Collaboration -->
-## 🎮 Community Canvas
-```markdown
-[![Collaborate](https://img.shields.io/badge/LIVE_COLLAB-8A2BE2?style=for-the-badge&logo=github)](https://github.com/Sarvajeeth21417/Sarvajeeth21417/discussions/1)
-[![Guestbook](https://img.shields.io/github/issues-raw/Sarvajeeth21417/Sarvajeeth21417/guestbook?color=00ff7f&label=Visitor%20Messages&style=for-the-badge)](https://github.com/Sarvajeeth21417/Sarvajeeth21417/issues?q=is%3Aopen+is%3Aissue+label%3Aguestbook)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarvajeet2003&theme=dark&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sarvajeet2003&theme=dark)  
 
+## 📢 Let's Connect
+- 📧 sarvajeeth21417@iiitd.ac.in  
+- 🗒 [Portfolio](https://sarvajeet2003.github.io/Portfolio/)  
+- 🗞 [LinkedIn](https://www.linkedin.com/in/sarvajeeth-uk)  
+- 📱 [LeetCode](https://leetcode.com/sarvajeeth21417)  
 
-import random
-facts = [
-    "🧩 Cube Master: Solved Rubik's Cube in 2:17!",
-    "🌐 Polyglot: Fluent in 3 human languages, 10 programming ones",
-    "🎸 Secret Skill: Can play Metallica riffs on bass guitar",
-    "🍣 Sushi Artisan: Trained in Tokyo for 3 months"
-]
-print(f'**Did You Know?** {random.choice(facts)}')
-
-
----
-
-**Required Setup Steps**:
-
-1. **3D Header**:
-```bash
-# Host Three.js scene on Glitch/Replit
-git clone https://github.com/Sarvajeeth21417/3D-Portfolio-Header
-npm install three @react-three/fiber @react-three/drei
-# Deploy to https://glitch.com/edit/#!/remix/threejs-starter
-
-
-# .github/workflows/guestbook.yml
-name: Guestbook Automation
-on:
-  issues:
-    types: [opened]
-jobs:
-  label-issue:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions-ecosystem/action-add-labels@v1
-        with:
-          labels: guestbook
-          number: ${{ github.event.issue.number }}
-
-
-// weather-widget.js (host on Vercel)
-export default async (req, res) => {
-  const { location } = req.query;
-  const weather = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${process.env.OWM_KEY}`);
-  return res.json(await weather.json());
-}
-
-
-# api/chat.py (using FastAPI)
-@app.post("/chat")
-async def chat_endpoint(query: str):
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
-        messages=[{"role": "user", "content": f"About Sarvajeeth's projects: {query}"}]
-    )
-    return {"reply": response.choices[0].message.content}
-
+## 🏆 Achievements
+- **2nd Place** - Enactus Hackathon (2024)  
+- **500+** LeetCode Problems Solved  
+- **Dean’s Award** - Academic Excellence (2023)  
