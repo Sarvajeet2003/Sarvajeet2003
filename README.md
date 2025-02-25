@@ -1,83 +1,126 @@
-# 🌌 Sarvajeeth U K's Digital Universe  
-**Machine Learning Engineer | Backend Developer | Innovator**  
+<!-- Retro ASCII Banner with Lottie Animation -->
+<div align="center">
+  <a href="https://sarvajeeth.dev">
+    <img src="https://lottie.host/embed/8e1e3b3d-0d3d-4a7a-9d4a-5f5b3e9b9c0f/XN4XlU7XAD.json" width="200" height="200">
+  </a>
+</div>
 
-![3D Header](https://raw.githubusercontent.com/Sarvajeet2003/3d-header/main/output.gif)  
-*[Explore the full 3D experience on my [Portfolio](https://sarvajeet2003.github.io/Portfolio/)]*  
+<!-- 3D Header using Three.js -->
+## 🚀 Digital Playground
+<div align="center">
+  <iframe src="https://sarvajeeth-dev-3d-portfolio.glitch.me" width="100%" height="400" frameborder="0" allow="autoplay; encrypted-media" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,255,127,0.3);"></iframe>
+</div>
 
-![Visitor Counter](https://komarev.com/ghpvc/?username=Sarvajeet2003&color=neon&style=flat)  
+<!-- GitHub Stats & Contribution Graph -->
+## 📈 Coding Odyssey
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarvajeeth21417&show_icons=true&theme=merko&count_private=true&include_all_commits=true&line_height=40" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarvajeeth21417&theme=merko&date_format=M%20j%5B%2C%20Y%5D&background=00000000" alt="Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvajeeth21417&theme=merko" width="100%"/>
+</div>
+
+<!-- Interactive Skills Matrix -->
+## 🔮 Tech Alchemy
+<div align="center" class="skills-matrix">
+  <a href="https://github.com/Sarvajeeth21417?tab=repositories&q=python">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python • 4 yrs" class="skill-icon"/>
+  </a>
+  <a href="https://github.com/Sarvajeeth21417/WeatherApp">
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin • Android Dev" class="skill-icon"/>
+  </a>
+  <!-- Add 10+ more skill icons -->
+</div>
+
+<style>
+.skills-matrix {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+  gap: 1rem;
+  padding: 2rem;
+}
+.skill-icon {
+  transition: transform 0.3s ease, filter 0.3s ease;
+  filter: grayscale(40%);
+}
+.skill-icon:hover {
+  transform: scale(1.2) rotate(5deg);
+  filter: grayscale(0%) drop-shadow(0 0 8px #00ff7f);
+}
+</style>
+
+<!-- Project Carousel -->
+## 🛠️ Innovation Hub
+<div align="center" class="glide">
+  <div class="glide__track" data-glide-el="track">
+    <div class="glide__slides">
+      <a href="https://github.com/Sarvajeeth21417/ProdSafe" class="glide__slide">
+        <img src="https://raw.githubusercontent.com/Sarvajeeth21417/ProdSafe/main/.github/workflows/demo.gif" width="400" alt="ProdSafe Demo"/>
+      </a>
+      <a href="https://github.com/Sarvajeeth21417/Moodipy" class="glide__slide">
+        <img src="https://raw.githubusercontent.com/Sarvajeeth21417/Moodipy/main/docs/assets/emotion-demo.gif" width="400" alt="Moodipy Demo"/>
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Real-Time Collaboration -->
+## 🎮 Community Canvas
+```markdown
+[![Collaborate](https://img.shields.io/badge/LIVE_COLLAB-8A2BE2?style=for-the-badge&logo=github)](https://github.com/Sarvajeeth21417/Sarvajeeth21417/discussions/1)
+[![Guestbook](https://img.shields.io/github/issues-raw/Sarvajeeth21417/Sarvajeeth21417/guestbook?color=00ff7f&label=Visitor%20Messages&style=for-the-badge)](https://github.com/Sarvajeeth21417/Sarvajeeth21417/issues?q=is%3Aopen+is%3Aissue+label%3Aguestbook)
+
+
+import random
+facts = [
+    "🧩 Cube Master: Solved Rubik's Cube in 2:17!",
+    "🌐 Polyglot: Fluent in 3 human languages, 10 programming ones",
+    "🎸 Secret Skill: Can play Metallica riffs on bass guitar",
+    "🍣 Sushi Artisan: Trained in Tokyo for 3 months"
+]
+print(f'**Did You Know?** {random.choice(facts)}')
+
 
 ---
 
-## 🌐 Live Guestbook  
-Leave a message below! 📬  
-[![Guestbook](https://img.shields.io/badge/Guestbook-000?logo=github&style=flat)](https://github.com/Sarvajeet2003/Sarvajeet2003/issues/1)  
-*[Total Messages: ![](https://img.shields.io/github/issues-closed/Sarvajeet2003/Sarvajeet2003?label=)]*  
+**Required Setup Steps**:
 
----
+1. **3D Header**:
+```bash
+# Host Three.js scene on Glitch/Replit
+git clone https://github.com/Sarvajeeth21417/3D-Portfolio-Header
+npm install three @react-three/fiber @react-three/drei
+# Deploy to https://glitch.com/edit/#!/remix/threejs-starter
 
-## 📊 Gamified Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarvajeet2003&show_icons=true&theme=vue)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvajeet2003&layout=compact&theme=vue)  
 
-**Current Level: 5** 🎮  
-**Next Level: 100 Commits**  
-*[Track progress with [GitHub Streak Stats](https://github.com/simple-icons/github-readme-streak-stats)]*  
+# .github/workflows/guestbook.yml
+name: Guestbook Automation
+on:
+  issues:
+    types: [opened]
+jobs:
+  label-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions-ecosystem/action-add-labels@v1
+        with:
+          labels: guestbook
+          number: ${{ github.event.issue.number }}
 
----
 
-## 🧩 Skills Matrix  
-<details>
-  <summary>Hover for Tool Tips</summary>
+// weather-widget.js (host on Vercel)
+export default async (req, res) => {
+  const { location } = req.query;
+  const weather = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${process.env.OWM_KEY}`);
+  return res.json(await weather.json());
+}
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&style=flat)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=Django&style=flat)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&style=flat)  
 
-</details>
+# api/chat.py (using FastAPI)
+@app.post("/chat")
+async def chat_endpoint(query: str):
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=[{"role": "user", "content": f"About Sarvajeeth's projects: {query}"}]
+    )
+    return {"reply": response.choices[0].message.content}
 
----
-
-## 🚀 Projects Showcase  
-[![ProdSafe](https://img.shields.io/badge/ProdSafe-000?logo=Flask&style=flat)](https://sarvajeet2003.github.io/Portfolio/#ProdSafe)  
-[![Moodipy](https://img.shields.io/badge/Moodipy-000?logo=TensorFlow&style=flat)](https://sarvajeet2003.github.io/Portfolio/#Moodipy)  
-[![WeatherApp](https://img.shields.io/badge/WeatherApp-000?logo=Kotlin&style=flat)](https://sarvajeet2003.github.io/Portfolio/#WeatherApp)  
-
----
-
-## 🎶 Now Playing  
-![Spotify](https://spotify-github-profile.vercel.app/api/view?username=YOUR_SPOTIFY_USERNAME&theme=novata)  
-
-**Random Quote:**  
-*[![](https://zenquotes.io/api/random)]*  
-
----
-
-## 🎲 Fun Fact  
-**"I once built a chatbot that learned to tell dad jokes."**  
-*[Refresh for new fact]*  
-
----
-
-## 🐍 Snake Game  
-![Snake Animation](https://github.com/Sarvajeet2003/Sarvajeet2003/blob/output/github-contribution-grid-snake-plot.svg)  
-
----
-
-## 🎮 Easter Egg  
-Press ↑ ↑ ↓ ↓ ← → ← → B A to unlock a secret!  
-*[Hint: Visit my Portfolio for the surprise]*  
-
----
-
-## 📬 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=Google&style=flat)](https://sarvajeet2003.github.io/Portfolio/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&style=flat)](mailto:sarvajeeth21417@iiitd.ac.in)  
-
----
-
-## 📜 About Me  
-- 🎓 B.Tech (IIIT Delhi)  
-- 🌱 Learning iOS Development  
-- 🎮 Fun fact: I love retro gaming!  
-
-**Last Updated:** [![Last Commit](https://github-readme-stats.vercel.app/api?username=Sarvajeet2003&count_private=true)]  
