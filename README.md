@@ -1,5 +1,3 @@
-# Sarvajeeth U K's GitHub README
-
 ![Sarvajeeth's GitHub Banner](Logo.png)
 
 ----
