@@ -1,6 +1,6 @@
 # Sarvajeeth U K's GitHub README
 
-(https://github.com/Sarvajeet2003/Sarvajeet2003/blob/main/Logo.png)
+![Sarvajeeth's GitHub Banner](Logo.png)
 
 ----
 * I'm Sarvajeeth, a passionate developer and researcher @IIIT-Delhi'25.
