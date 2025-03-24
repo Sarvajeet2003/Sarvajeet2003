@@ -12,7 +12,6 @@
 * Tags: Problem solver, innovative thinker, tech enthusiast.
 
 ----
-![Project Wins](https://via.placeholder.com/500x200.png?text=Projects+and+Hackathons)
 
 <a href="https://www.linkedin.com/in/sarvajeeth-u-k-9aa85a220" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sarvajeeth" height="30"/></a>
 <a href="mailto:sarvajeeth21417@iiitd.ac.in" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="sarvajeeth" height="30"/></a>
