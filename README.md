@@ -1,142 +1,140 @@
-# Hi 👋, I'm Sarvajeeth U K
+# Sarvajeeth U K's GitHub README
 
-## 🚀 About Me
-- 🎓 B.Tech (CSSS) student at [IIIT Delhi](https://iiitd.ac.in)  
-- 🌟 Passionate about Machine Learning, Backend Development, and Scalable Systems  
-- 🌱 Currently learning **Data Science** and **AI**  
-- 💼 3+ years of experience in software development and research  
+![Sarvajeeth's GitHub Banner](https://via.placeholder.com/1500x500.png?text=Sarvajeeth+U+K)
 
-## 🛠️ Skills & Tools
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-      <br>Python
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-      <br>Java
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-      <br>Kotlin
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-      <br>PyTorch
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-      <br>Flask
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
-      <br>Django
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-      <br>Android
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-      <br>Docker
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
-      <br>Kubernetes
-    </td>
-  </tr>
-</table>
+----
+* I'm Sarvajeeth, a passionate developer and researcher @IIIT-Delhi'25.
 
-## 📚 Education
-- **B.Tech (CSSS)** - Indraprastha Institute of Information Technology, Delhi (2021 - Present)  
-  🏆 Dean’s Award for Academic Excellence  
-- **Higher Secondary (96.6%)** - BGS PU College, Mysuru (2019 - 2021)  
-- **Secondary School (95.6%)** - St. Joseph’s Central School, Mysuru (2009 - 2019)  
+* My research interests are Machine Learning, Data Science, and Backend Development.
+  
+* Most of my learnings come from hands-on projects and university courses.
 
-## 🏢 Work Experience
-### Research Intern | Complex Systems Lab, IIIT Delhi  
-**Aug 2023 - Present**  
-- Developed ML models for allergen detection in protein sequences  
-- Built recipe recommendation system using collaborative filtering  
+* Tags: Problem solver, innovative thinker, tech enthusiast.
 
-### Data Science Intern | Excelsoft Technologies Pvt Ltd  
-**May 2024 - Jul 2024**  
-- Built predictive models for user engagement analysis  
-- Implemented TF-IDF and cosine similarity for content personalization  
+----
+![Project Wins](https://via.placeholder.com/500x200.png?text=Projects+and+Hackathons)
 
-### Developer Intern | Caliper Business Solutions  
-**May 2023 - Jul 2023**  
-- Automated SMS alerts for adverse weather using Twilio API  
-- Designed geo-fencing system with Django  
+<a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sarvajeeth" height="30"/></a>
+<a href="mailto:sarvajeeth21417@iiitd.ac.in" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="sarvajeeth" height="30"/></a>
+<a href="https://github.com/your-github-profile" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="sarvajeeth" height="30"/></a>
+<a href="https://leetcode.com/your-leetcode-profile" target="blank"><img align="center" src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=#ff9900" alt="sarvajeeth" height="30"/></a>
+<a href="https://your-portfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="sarvajeeth" height="30"/></a>
 
-## 🌟 Featured Projects
-<table>
-  <tr>
-    <td align="center" width="300">
-      <a href="https://github.com/Sarvajeet2003/ProdSafe">
-        <img src="https://github.com/Sarvajeet2003/ProdSafe/raw/main/screenshots/1.png" alt="ProdSafe" width="200" height="120"/>
-        <br>ProdSafe
-      </a>
-      <br>Flask-based product safety checker
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/Sarvajeet2003/Course-ChatBot">
-        <img src="https://github.com/Sarvajeet2003/Course-ChatBot/raw/main/screenshots/1.png" alt="Course ChatBot" width="200" height="120"/>
-        <br>Course ChatBot
-      </a>
-      <br>NLP chatbot for university regulations
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/Sarvajeet2003/Moodipy">
-        <img src="https://github.com/Sarvajeet2003/Moodipy/raw/main/screenshots/1.png" alt="Moodipy" width="200" height="120"/>
-        <br>Moodipy
-      </a>
-      <br>Emotion-based music player
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <a href="https://github.com/Sarvajeet2003/MedEase">
-        <img src="https://github.com/Sarvajeet2003/MedEase/raw/main/screenshots/1.png" alt="MedEase" width="200" height="120"/>
-        <br>MedEase
-      </a>
-      <br>Hospital readmission model with FHIR API
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/Sarvajeet2003/Weather-Forecast-App">
-        <img src="https://github.com/Sarvajeet2003/Weather-Forecast-App/raw/main/screenshots/1.png" alt="WeatherApp" width="200" height="120"/>
-        <br>WeatherApp
-      </a>
-      <br>Android app for real-time weather updates
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/Sarvajeet2003/Taming-Stable-Diffusion-for-Lip-Sync">
-        <img src="https://github.com/Sarvajeet2003/Taming-Stable-Diffusion-for-Lip-Sync/raw/main/screenshots/1.png" alt="LipSync" width="200" height="120"/>
-        <br>LipSync
-      </a>
-      <br>Deep learning for lip-syncing
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&show_icons=true&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Recent activities" height="200" width="auto"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="GitHub Stats" height="150" width="auto">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Top Languages" height="150" width="auto"><br><br>
+</p>
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarvajeet2003&theme=dark&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sarvajeet2003&theme=dark)  
+## About Me
 
-## 📢 Let's Connect
-- 📧 sarvajeeth21417@iiitd.ac.in  
-- 🗒 [Portfolio](https://sarvajeet2003.github.io/Portfolio/)  
-- 🗞 [LinkedIn](https://www.linkedin.com/in/sarvajeeth-uk)  
-- 📱 [LeetCode](https://leetcode.com/sarvajeeth21417)  
+I'm a final-year Bachelor of Technology student at Indraprastha Institute of Information Technology, Delhi, specializing in Computer Science and Software Systems. I have a strong foundation in backend development, data science, and machine learning.
 
-## 🏆 Achievements
-- **2nd Place** - Enactus Hackathon (2024)  
-- **500+** LeetCode Problems Solved  
-- **Dean’s Award** - Academic Excellence (2023)  
+## Technical Skills
+
+### Programming Languages
+- Python
+- Java
+- Kotlin
+
+### Backend Development
+- Django
+- Flask
+- REST API
+- SpringBoot
+- MongoDB
+- MySQL
+- Docker
+- Git
+
+### Data Science & Machine Learning
+- Pandas
+- NumPy
+- TensorFlow
+- Keras
+- scikit-learn
+- OpenCV
+- LSTM
+
+## Experience
+
+### Research Intern - Complex Systems Lab, IIIT Delhi (Aug 2023 - Present)
+- Machine Learning for Computational Gastronomy
+- Built ML models for allergen detection in a Protein Sequence
+- Engineered a recipe recommendation system using collaborative filtering, deployed via Flask
+
+### Data Science Intern - Excelsoft Technologies Pvt Ltd (May 2024 - Jul 2024)
+- Data Science & Data Analyzation
+- Built predictive models for user engagement analysis using TF-IDF and cosine similarity
+- Performed data cleaning and exploratory analysis to optimize content personalization accuracy
+
+### Developer Intern - Caliper Business Solutions (May 2023 - Jul 2023)
+- Backend Development & API Integration
+- Automated SMS alerts for adverse weather using Twilio API, reducing logistics delays by 30%
+- Designed geo-fencing system with Django, improving truck route compliance by 25%
+
+## Projects
+
+### SafeChoice - Personalized Product Safety Checker (Mar 2024 - Present)
+- Built a Streamlit app that scans product barcodes and checks safety based on user allergies/health conditions
+- Integrated OpenFoodFacts API to retrieve product details and analyze ingredients against user profiles
+- Created intuitive interface with clear safety indicators and detailed ingredient breakdowns
+- Implemented user authentication and profile management system for personalized recommendations
+- Tech: Python, Streamlit, OpenFoodFacts API, Pandas, SQLite
+
+### MedEase (Dec 2024)
+- Built a machine learning model to predict hospital readmissions using FHIR API for data integration
+- Implemented an OpenAI summary generator to provide concise and actionable insights from patient data
+- Tech: Python, Jupyter Notebook, Machine Learning, FHIR API, OpenAI API
+
+### ML Allergen Model (Jan 2024 - May 2024)
+- Developed a machine learning pipeline for allergen classification with TensorFlow and scikit-learn
+- Improved prediction accuracy through feature selection, data augmentation, and hyperparameter tuning
+- Technologies: Python, TensorFlow, scikit-learn
+
+### Traffic Terminator - Namma Yatri Peak Hour Solution (Jan 2024 - Oct 2024)
+- Developed AI-driven solution to optimize taxi supply-demand balance during peak hours in Bengaluru
+- Implemented hotspot prediction using LSTM Neural Networks and created dynamic pricing system using Q-Learning Reinforcement Learning model
+- Developed intelligent ride matching algorithm and queue management system for efficient ride distribution
+- Implemented WhatsApp integration for accessibility and subscription-based model (Namma Yatri Plus) with priority access
+- Created loyalty queue system based on ride history and experience-based incentives for drivers to increase engagement and retention
+- Built comprehensive dashboard for monitoring hotspots, dynamic pricing, ride sharing benefits, and driver recommendations
+- Tech: Python, Machine Learning, Reinforcement Learning, NLP, Geospatial Analysis
+
+### Course ChatBot & Suggester (Nov 2024 - Jan 2025)
+- Built a chatbot using NLP and FAISS for university course regulation queries
+- Extracted and indexed PDFs for fast and accurate responses
+- Tech: Python, Flask, FAISS, NLP
+
+### Moodipy: Emotion-Based Music Player (Aug 2024 - Nov 2024)
+- Integrated emotion detection with Spotify API for real-time music recommendations
+- Used a deep learning model to classify emotions from facial expressions
+- Tech: Python, Flask, TensorFlow, Spotify API
+
+### WeatherApp (June 2024 - Aug 2024)
+- Developed an Android app for real-time and predictive weather data
+- Technologies Used: Kotlin, OpenWeather API, Android Studio
+
+## Education
+
+### Indraprastha Institute of Information Technology, Delhi
+Bachelor of Technology in CSSS (8th Semester) - Dec 2021 – Present
+
+### BGS PU College, Mysuru
+Percentage: 96.6% - Karnataka Board of Secondary School - 2019 – 2021
+
+### St. Joseph’s Central School, Mysuru
+Percentage: 95.6% - Secondary School Certificate (CBSE) - 2009 – 2019
+
+## Awards and Achievements
+
+- Dean's Award for Academic Excellence: Received in my 3rd Year at IIITD.
+- Finalist, The Great Bengaluru Hackathon : Placed in the top 9 out of 150+ teams in this prominent innovation event.
+- 2nd Place - Enactus Hackathon: Recognized for innovative project development.
+- Competitive Programming: Solved 500+ problems on LeetCode, emphasizing expertise in Data Structures and Algorithms.
+
+## Interests and Hobbies
+
+- Extra Activities: Chess, Trekking, and exploring nature.
+- Project Development: Passionate about building innovative software projects and experimenting with new technologies.
+- Music : Enjoy listening to tech podcasts and music while coding.
