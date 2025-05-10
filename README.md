@@ -26,26 +26,3 @@
 ## About Me
 
 I'm a final-year Bachelor of Technology student at Indraprastha Institute of Information Technology, Delhi, specializing in Computer Science and Software Systems. I have a strong foundation in backend development, data science, and machine learning.
-
-## Experience
-
-### Research Intern - Complex Systems Lab, IIIT Delhi (Aug 2023 - Present)
-- Machine Learning for Computational Gastronomy
-- Built ML models for allergen detection in a Protein Sequence
-- Engineered a recipe recommendation system using collaborative filtering, deployed via Flask
-
-### Data Science Intern - Excelsoft Technologies Pvt Ltd (May 2024 - Jul 2024)
-- Data Science & Data Analyzation
-- Built predictive models for user engagement analysis using TF-IDF and cosine similarity
-- Performed data cleaning and exploratory analysis to optimize content personalization accuracy
-
-### Developer Intern - Caliper Business Solutions (May 2023 - Jul 2023)
-- Backend Development & API Integration
-- Automated SMS alerts for adverse weather using Twilio API, reducing logistics delays by 30%
-- Designed geo-fencing system with Django, improving truck route compliance by 25%
-
-## Interests and Hobbies
-
-- Extra Activities: Chess, Trekking, and exploring nature.
-- Project Development: Passionate about building innovative software projects and experimenting with new technologies.
-- Music : Enjoy listening to tech podcasts and music while coding.
