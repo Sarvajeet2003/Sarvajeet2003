@@ -11,7 +11,6 @@
 
 ### 🚀 About Me
 
-- 🎓 **Final-year B.Tech Student** at IIIT-Delhi, specializing in Computer Science and Software Systems
 - 🔬 **Research Focus**: Machine Learning, Data Science, and Backend Development
 - 💡 **Learning Philosophy**: Hands-on projects and practical implementation
 - 🎯 **What drives me**: Solving complex problems through innovative technology solutions
