@@ -43,17 +43,6 @@
 <img src="https://leetcard.jacoblin.cool/sarvajeeth21417?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="400">
 </p>
 
-### 🌟 Featured Projects
-
-<p align="center">
-<a href="https://github.com/Sarvajeet2003?tab=repositories&q=&type=&language=&sort=stargazers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarvajeet2003&repo=YOUR_FEATURED_REPO_1&theme=tokyonight&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Featured Repo" width="48%">
-</a>
-<a href="https://github.com/Sarvajeet2003?tab=repositories&q=&type=&language=&sort=stargazers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarvajeet2003&repo=YOUR_FEATURED_REPO_2&theme=tokyonight&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Featured Repo" width="48%">
-</a>
-</p>
-
 ### 🤝 Let's Connect
 
 <p align="center">
