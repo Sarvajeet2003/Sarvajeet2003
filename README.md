@@ -1,7 +1,7 @@
 ![Sarvajeeth's GitHub Banner](Logo.png)
 
 <h1 align="center">Hi 👋, I'm Sarvajeeth</h1>
-<h3 align="center">Passionate Developer & ML Researcher | IIIT-Delhi '25</h3>
+<h3 align="center">Passionate Developer | IIIT-Delhi '25</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34E6F2&center=true&vCenter=true&width=435&lines=Backend+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
