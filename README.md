@@ -1,7 +1,7 @@
 ![Sarvajeeth's GitHub Banner](Logo.png)
 
 <h1 align="center">Hi 👋, I'm Sarvajeeth</h1>
-<h3 align="center">Passionate Developer | IIIT-Delhi '25</h3>
+<h3 align="center">Passionate Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34E6F2&center=true&vCenter=true&width=435&lines=Backend+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 - 🔬 **Research Focus**: Machine Learning, Data Science, and Backend Development
 - 💡 **Learning Philosophy**: Hands-on projects and practical implementation
 - 🎯 **What drives me**: Solving complex problems through innovative technology solutions
-- 📫 **Reach me at**: [sarvajeeth21417@iiitd.ac.in](mailto:sarvajeeth21417@iiitd.ac.in)
+- 📫 **Reach me at**: [sarvajeethuk@gmail.com](mailto:sarvajeethuk@gmail.com)
 
 ### 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@
 <a href="https://www.linkedin.com/in/sarvajeeth-u-k-9aa85a220" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
 </a>
-<a href="mailto:sarvajeeth21417@iiitd.ac.in" target="blank">
+<a href="mailto:sarvajeethuk@gmail.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
 </a>
 <a href="https://github.com/Sarvajeet2003" target="blank">
