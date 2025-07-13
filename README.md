@@ -3,10 +3,10 @@
 ────────────────────────────────────────────── -->
 
 <!-- VISUAL BANNER -->
-<!-- NEW HEADER BANNER -->
+<!-- HIGH-CONTRAST HEADER -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Sarvajeeth%20U%20K&fontSize=36&fontColor=34E6F2&desc=Backend%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=72&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0D1117&height=200&section=header&text=Sarvajeeth%20U%20K&fontSize=36&fontColor=FFFFFF&desc=Backend%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=72&animation=twinkling"
     width="100%"
     alt="Header"
   />
