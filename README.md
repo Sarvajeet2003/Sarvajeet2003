@@ -3,8 +3,13 @@
 ────────────────────────────────────────────── -->
 
 <!-- VISUAL BANNER -->
+<!-- NEW HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi,%20I%27m%20Sarvajeet&fontSize=45&fontColor=34E6F2&desc=Backend%20Developer%20|%20ML%20Enthusiast%20|%20Problem%20Solver&descAlignY=75&animation=twinkling" width="100%" alt="Header"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Sarvajeeth%20U%20K&fontSize=36&fontColor=34E6F2&desc=Backend%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=72&animation=twinkling"
+    width="100%"
+    alt="Header"
+  />
 </div>
 
 <!-- LIVE TYPING -->
