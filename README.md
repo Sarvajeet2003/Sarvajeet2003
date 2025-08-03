@@ -74,9 +74,9 @@
   <a href="https://leetcode.com/sarvajeeth21417/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06" height="32"/>
   </a>
-  <a href="https://portfolio-sarvajeet2003s-projects.vercel.app/">
+<!--   <a href="https://portfolio-sarvajeet2003s-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="32"/>
-  </a>
+  </a> -->
 </p>
 
 ---
